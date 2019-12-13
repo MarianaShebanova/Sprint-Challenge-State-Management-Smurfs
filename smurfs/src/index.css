@@ -3,3 +3,25 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.even {
+   color: #9CD3EA;
+   background-color: black;
+   margin: 5%;
+}
+
+.odd {
+   color: #CD3480;
+   background-color:#EDDEE6;
+   margin: 5%;
+}
+.input {
+   margin: 5%;
+}
+button {
+   margin: 5%;
+  padding: 6px 8px;
+  color: black;
+  border: 1px solid black;
+  border-radius: 4px;
+}
